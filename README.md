@@ -2,8 +2,8 @@
 #### I am React Native Developer
 I worked as a UI/UX designer for 2 years. Then I started the software. I am currently developing projects as a React Native Developer.
 
-Skills: html, css, js, react, react native<br>  <br>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react)]()
+Skills: git, figma, html, css, js, react, react native<br>  <br>
+[![My Skills](https://skills.thijs.gg/icons?i=git,figma,html,css,js,react)]()
 
 <br>
 
