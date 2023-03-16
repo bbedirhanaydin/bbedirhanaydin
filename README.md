@@ -9,9 +9,9 @@ Skills: HTML / CSS / JS / REACT / REACT NATIVE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bbedirhanaydin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bedirhanaydin/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bbedirhanaydin)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=bbedirhanaydin)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbedirhanaydin)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbedirhanaydin)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbedirhanaydin&show_icons=true)  
 
