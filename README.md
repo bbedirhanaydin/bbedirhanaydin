@@ -12,5 +12,5 @@ Skills: HTML / CSS / JS / REACT / REACT NATIVE
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbedirhanaydin&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbedirhanaydin)]()
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bbedirhanaydin) 
 
